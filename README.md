@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am a robotics engineer who works on embedded systems such as writing firmware for sensors, designing printed circuit boards, and controlling some actuators.
-I’m looking to collaborate on any firmware development of sensors and actuators.
+
+- 👯 I’m looking to collaborate on any firmware development of sensors and actuators.
 
 <!--
 **JK-Pair/JK-Pair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
